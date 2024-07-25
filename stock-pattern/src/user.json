@@ -1,0 +1,5 @@
+{
+  "DATA_PATH": "D:\\RapidHire\\Anush\\stock_fetch\\src\\stock_data",
+  "SYM_LIST": "D:\\RapidHire\\Anush\\stock_fetch\\src\\sym_list.csv",
+  "POST_SCAN_PLOT": true
+}
